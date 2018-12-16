@@ -1,0 +1,2 @@
+# Koooooo
+A  static page.
