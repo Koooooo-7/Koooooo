@@ -130,7 +130,7 @@ span.menu {
     text-transform: uppercase;
 }
 .banner-info p{
-    color: #d0d0d0;
+    color: #f35041;
     font-size: 1em;
     margin: 1em 0 0 0;
     line-height: 1.8em;
@@ -344,11 +344,12 @@ span.menu {
     line-height: 1.4em;
 }
 .w3l-history-right p{
-    color: #ce501ddb;
+    color: #f35041;
     font-size: .9em;
     margin: 1em 0 2em 0;
     line-height: 1.8em;
 }
+
 .w3l-history-right a{
 	color: #f35041;
     font-size: 1em;
